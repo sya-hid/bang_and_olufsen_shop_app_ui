@@ -132,30 +132,24 @@ class _BagPageState extends State<BagPage> {
                             ]),
                         child: Row(
                           children: [
-                            Container(
-                              padding: const EdgeInsets.all(5),
-                              decoration: BoxDecoration(
-                                  color: grey,
-                                  borderRadius: BorderRadius.circular(20)),
-                              child: Column(
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                children: [
-                                  Text(
-                                    'Total',
-                                    style: TextStyle(
-                                        color: black.withOpacity(0.2),
-                                        fontSize: 14),
-                                  ),
-                                  const SizedBox(height: 5),
-                                  Text(
-                                    '\$${cartProvider.getTotal().toStringAsFixed(2)}',
-                                    style: const TextStyle(
-                                        fontSize: 32,
-                                        fontWeight: FontWeight.bold,
-                                        color: black),
-                                  )
-                                ],
-                              ),
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Total',
+                                  style: TextStyle(
+                                      color: black.withOpacity(0.2),
+                                      fontSize: 14),
+                                ),
+                                const SizedBox(height: 5),
+                                Text(
+                                  '\$${cartProvider.getTotal().toStringAsFixed(2)}',
+                                  style: const TextStyle(
+                                      fontSize: 32,
+                                      fontWeight: FontWeight.bold,
+                                      color: black),
+                                )
+                              ],
                             ),
                             const Spacer(),
                             GestureDetector(
