@@ -16,8 +16,8 @@ https://youtu.be/OH3Rpt11PXs
 ## Preview
 
 <p align="middle">
-<img src="assets/previews/explore.png" alt="Explore" width="400">
-<img src="assets/previews/detail_1.png" alt="Detail" width="400">
-<img src="assets/previews/detail_2.png" alt="Detail" width="400">
-<img src="assets/previews/cart.png" alt="Cart" width="400">
+<img src="assets/previews/explore.png" alt="Explore" width="200">
+<img src="assets/previews/detail_1.png" alt="Detail" width="200">
+<img src="assets/previews/detail_2.png" alt="Detail" width="200">
+<img src="assets/previews/cart.png" alt="Cart" width="200">
 </p>
