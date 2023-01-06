@@ -2,8 +2,8 @@
 
 ## Support
 
-<p align="middle">
-<a href="https://sociabuzz.com/syarifhidayatullah2020/tribeb">
+<p>
+<a href="https://sociabuzz.com/syarifhidayatullah2020/tribe">
 <img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" width="100"></a>
 
 <a href="https://www.buymeacoffee.com/syarifhidayat">
