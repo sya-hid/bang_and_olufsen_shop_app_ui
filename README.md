@@ -2,8 +2,9 @@
 
 ## Support
 
-https://www.buymeacoffee.com/syarifhidayat
-https://sociabuzz.com/syarifhidayatullah2020/tribe
+<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" href="https://sociabuzz.com/syarifhidayatullah2020/tribeb" width="100">
+
+<img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" href="https://www.buymeacoffee.com/syarifhidayat" width="100">
 
 ## UI/UX
 
