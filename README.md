@@ -1,4 +1,4 @@
-# Headphone Shop UI
+# Bang & Olufsen Shop App UI
 
 ## Support
 
