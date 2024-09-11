@@ -29,3 +29,4 @@
 <img src="assets/previews/detail_2.png" alt="Detail" width="200">
 <img src="assets/previews/cart.png" alt="Cart" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.bang_and_olufsen_app_ui"/>  
